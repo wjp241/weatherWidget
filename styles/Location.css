@@ -1,0 +1,15 @@
+.place {
+  font-size:52px;
+}
+
+.icon {
+  position:relative;
+  left:1em;
+}
+
+.description{
+  display: block;
+  font-size:18.18px;
+  margin-right:1.5em;
+}
+
