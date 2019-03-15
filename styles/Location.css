@@ -1,5 +1,7 @@
 .place {
-  font-size:52px;
+  position: relative;
+  left: 0.2em;
+  font-size:39.93px;
 }
 
 .icon {

@@ -1,17 +1,19 @@
 .temperatures {
   margin-top:3em;
-  margin-bottom: 3em;
+  margin-bottom: 3.3em;
 }
 .temp {
   position:relative;
   display:inline;
-  font-size:28px;
+  font-size:22.68px;
 }
 
 .temp.n0 {
+  position: relative;
+  top: 0.1em;
+  left: 0.02em;
   display:block;
-  font-size: 70px;
-  margin:0;
+  font-size: 55.1px;
   margin-bottom:0.3em;
   right:0.1em;
   font-weight: 100;
